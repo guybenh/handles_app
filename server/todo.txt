@@ -1,0 +1,5 @@
+All server tasks:
+
+1. logging - log events to another container in cosmos db?
+2. handle errors?
+3. put all secrets from app, utils and kuzma in key vault

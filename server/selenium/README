@@ -1,0 +1,3 @@
+# in this project we create a docker image using a downloaded specific version of chromedriver
+# harder to debug this way , so added a project
+# using a remote chromedriver

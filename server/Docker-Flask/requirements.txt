@@ -1,0 +1,14 @@
+requests
+flask
+azure.cosmos
+passlib
+flask_httpauth
+itsdangerous
+gunicorn
+azure-keyvault-secrets
+azure.identity
+applicationinsights
+python-dateutil
+sendgrid
+google-auth
+braintree
